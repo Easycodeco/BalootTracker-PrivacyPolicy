@@ -1,5 +1,4 @@
-# BalootTracker-PrivacyPolicy
-Baloot Tracker Privacy Policy
+# Baloot Tracker Privacy Policy
 
 Last updated: 24-01-2024
 
